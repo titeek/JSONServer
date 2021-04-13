@@ -1,4 +1,6 @@
-geo: {
+{
+"geo": 
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -164,4 +166,4 @@ geo: {
     }
   ]
 }
-
+}
